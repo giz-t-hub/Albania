@@ -1,10 +1,10 @@
 # Transport in Albania
 
-- Plans, data and other documents on transport in Albania
+Plans, data and other documents on transport in Albania
 
-- Community list of publications, data and other useful information on transport in Albania 🚲🚌🚋🌳🚊
+Community list of publications, data and other useful information on transport in Albania 🚲🚌🚋🌳🚊
 
-- Have something to add or change? Contact: Armin.Wagner@giz.de
+Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ------------------------------
 
