@@ -51,10 +51,10 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - Rail: 
     - [Railway Code, 2016](https://planifikimi.gov.al/index.php?eID=dumpFile&t=f&f=6213&token=8c7ae5900b77a2d83b8c3cb6b99ed33a252e3590) *(Kodi Hekurudhor I Republikës Së Shqipërisë)*
-    - [Law on Establishment of Railway Safety Authority (nr. 88, 2021)](https://www.infrastruktura.gov.al/wp-content/uploads/2022/11/ligj-2021-07-01-88_Per-krijimin-e-Autoritetit-t-Siguris-Hekurudhore.pdf)
-    - [Law on Separation of "Albanian Ralways" Joint-stock Company](https://www.infrastruktura.gov.al/wp-content/uploads/2022/11/ligj-2021-07-01-90_Per-Ndarjen-e-shoqris-HSHsha.pdf)
-    - [Law on Licensing Railway Operators](https://www.infrastruktura.gov.al/wp-content/uploads/2022/11/rregullore-2011-06-10-2638_Mbi-pajisjen-me-leje-veprimtarie-t-transportuesve-hekurudhor.pdf)
-    - [ Law on Rules of Railway Transport of Passengers and Goods](https://www.infrastruktura.gov.al/wp-content/uploads/2022/11/udhezim-2012-07-09-10_Mbi-rregullat-n-transportin-hekurudhor-t-udhtarve-dhe-t-bagazheve.pdf)
+    - [Law on Establishment of Railway Safety Authority (nr. 88, 2021)](https://www.infrastruktura.gov.al/wp-content/uploads/2022/11/ligj-2021-07-01-88_Per-krijimin-e-Autoritetit-t-Siguris-Hekurudhore.pdf) *(Ligj Për Krijimin E Autoritetit Të Sigurisë Hekurudhore)*
+    - [Law on Separation of "Albanian Railways" Joint-stock Company](https://www.infrastruktura.gov.al/wp-content/uploads/2022/11/ligj-2021-07-01-90_Per-Ndarjen-e-shoqris-HSHsha.pdf) *(Ligj Për Ndarjen E Shoqërisë “Hekurudha Shqiptare” SHA)*
+    - [Law on Licensing Railway Operators](https://www.infrastruktura.gov.al/wp-content/uploads/2022/11/rregullore-2011-06-10-2638_Mbi-pajisjen-me-leje-veprimtarie-t-transportuesve-hekurudhor.pdf) *(Rregullore Mbi Pajisjen Me Leje Veprimtarie Të Transportuesve Hekurudhorë)*
+    - [Law on Rules of Railway Transport of Passengers and Goods](https://www.infrastruktura.gov.al/wp-content/uploads/2022/11/udhezim-2012-07-09-10_Mbi-rregullat-n-transportin-hekurudhor-t-udhtarve-dhe-t-bagazheve.pdf) *(Udhëzim Mbi Rregullat Në Transportin Hekurudhor Të Udhëtarëve Dhe Të Bagazheve)*
 
 - Aerial: 
     - [Aerial Code](https://www.infrastruktura.gov.al/wp-content/uploads/2020/10/Kodi-Ajror_ligj-2020-07-23-96.pdf)
