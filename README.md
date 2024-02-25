@@ -59,13 +59,13 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
     - [Law on Rules of Railway Transport of Passengers and Goods](https://www.infrastruktura.gov.al/wp-content/uploads/2022/11/udhezim-2012-07-09-10_Mbi-rregullat-n-transportin-hekurudhor-t-udhtarve-dhe-t-bagazheve.pdf) *(Udhëzim Mbi Rregullat Në Transportin Hekurudhor Të Udhëtarëve Dhe Të Bagazheve)*
 
 - Aerial: 
-    - [Aerial Code](https://www.infrastruktura.gov.al/wp-content/uploads/2020/10/Kodi-Ajror_ligj-2020-07-23-96.pdf)
+    - [Aerial Code](https://www.infrastruktura.gov.al/wp-content/uploads/2020/10/Kodi-Ajror_ligj-2020-07-23-96.pdf) *(Kodi Ajror I Republikës Së Shqipërisë)*
 
 
 - General:
-    - [General National Plan 2015 – 2030: First National Document on Territorial Planning](https://planifikimi.gov.al/index.php?eID=dumpFile&t=f&f=5154&token=da636af1a1a4ffe0d0973a5cfc7eedbca62f49cc)
-    - [Cross-sectoral Integrated Plan for the Tirana-Durrës Area](https://planifikimi.gov.al/index.php?eID=dumpFile&t=f&f=1310&token=79845b4945ed987ac47dd693d35b72da0a680b92)
-    - [Cross-sectoral Integrated Plan for the Coastal Area](https://planifikimi.gov.al/index.php?eID=dumpFile&t=f&f=2752&token=b41d3b4552272882361440529e2604b12fe5ca57)
+    - [General National Plan 2015 – 2030: First National Document on Territorial Planning](https://planifikimi.gov.al/index.php?eID=dumpFile&t=f&f=5154&token=da636af1a1a4ffe0d0973a5cfc7eedbca62f49cc) *(Plani I Përgjithshëm Kombëtar 2015 - 2030: Dokumenti I Parë Kombëtar Për Planifikimin E Territorit)* 
+    - [Cross-sectoral Integrated Plan for the Tirana-Durrës Area](https://planifikimi.gov.al/index.php?eID=dumpFile&t=f&f=1310&token=79845b4945ed987ac47dd693d35b72da0a680b92) *(Plani I Integruar Ndërsektorial Për Zonën Tiranë-Durrës)*
+    - [Cross-sectoral Integrated Plan for the Coastal Area](https://planifikimi.gov.al/index.php?eID=dumpFile&t=f&f=2752&token=b41d3b4552272882361440529e2604b12fe5ca57) *(Plani I Integruar Ndërsektorial Për Brezin Bregdetar)*
   
 
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
