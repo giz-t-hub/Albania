@@ -41,16 +41,16 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - Road Transport: 
     - [Road Code, 2021](https://mb.gov.al/wp-content/uploads/2021/07/Kodi-Rrugor-i-RSH.pdf) (*Kodi Rrugor I Republikës Së Shqipërisë)*
-        - [Regulation on the Implementation of the Road Code](https://www.dpshtrr.al/sites/default/files/downloads/dokumente/VKM%20Nr.153%2C%20dt.07.04.2000%20Pe%CC%88r%20Miratimin%20e%20Rregullores%20se%CC%88%20Zbatimit%20te%CC%88%20Kodit%20Rrugor%20te%CC%88%20RSH.pdf) *(Për Miratimin E Rregullores Së Zbatimit Të Kodit Rrugor Të Republikës Së Shqipërisë)*
-    - [Technical Guidelines for Street Design and Implementation](https://planifikimi.gov.al/index.php?eID=dumpFile&t=f&f=3867&token=6ccc6b0d47997b14abb0fb0a1b4c173467c1a667)
-    - [Implementation of Smart Systems on Road Transport (2020)](https://www.infrastruktura.gov.al/wp-content/uploads/2021/02/Urdher-2020-06-18-185_ITS_1.pdf)
-    - [Guidelines on Road Transport Ticketing Templates and Standards (nr. 3743, 2017)](https://www.infrastruktura.gov.al/wp-content/uploads/2020/10/UDHEZIM_3743_10072017_perditesuar.pdf)
+        - [Regulation on the Implementation of the Road Code](https://www.dpshtrr.al/sites/default/files/downloads/dokumente/VKM%20Nr.153%2C%20dt.07.04.2000%20Pe%CC%88r%20Miratimin%20e%20Rregullores%20se%CC%88%20Zbatimit%20te%CC%88%20Kodit%20Rrugor%20te%CC%88%20RSH.pdf) *(Rregullores Së Zbatimit Të Kodit Rrugor Të Republikës Së Shqipërisë)*
+    - [Technical Guidelines for Street Design and Implementation](https://planifikimi.gov.al/index.php?eID=dumpFile&t=f&f=3867&token=6ccc6b0d47997b14abb0fb0a1b4c173467c1a667) *(Rregullave Teknike të Projektimit dhe Ndërtimit të  Rrugëve)*
+    - [Implementation of Smart Systems on Road Transport (2020)](https://www.infrastruktura.gov.al/wp-content/uploads/2021/02/Urdher-2020-06-18-185_ITS_1.pdf) *(Strategjisë Për Aplikimin E Sistemeve Inteligjente Në Transportin Rrugor)*
+    - [Guidelines on Road Transport Ticketing Templates and Standards (nr. 3743, 2017)](https://www.infrastruktura.gov.al/wp-content/uploads/2020/10/UDHEZIM_3743_10072017_perditesuar.pdf) *(Mbi Modelet Dhe Standartet E Biletave Të Transportit Rrugor Të Udhëtarëve)*
     - Signage Guidelines: 
-        - [Manual of Road Signage](https://www.arrsh.gov.al/te-ngarkuara/pdf/Manuali-Sinjalistikes.pdf)
-        - [Technical specifications of park, square, boulevard, and road nameplates and of building numbering signs](https://qbz.gov.al/eli/vendim/2008/03/05/446/9c1818f3-05d3-43a0-a781-85a2f8ac17ab)
+        - [Manual of Road Signage](https://www.arrsh.gov.al/te-ngarkuara/pdf/Manuali-Sinjalistikes.pdf) *(Manuali i Sinjalizimit Rrugor)*
+        - [Technical specifications of park, square, boulevard, and road nameplates and of building numbering signs](https://qbz.gov.al/eli/vendim/2008/03/05/446/9c1818f3-05d3-43a0-a781-85a2f8ac17ab) *(Specifikimeve Teknike Të Tabelave Të Emërtimeve Të Parqeve, Shesheve, Bulevardeve E Rrugëve Dhe Të Numërtimeve Të Ndërtesave)*
 
 - Rail: 
-    - [Railway Code, 2016](https://planifikimi.gov.al/index.php?eID=dumpFile&t=f&f=6213&token=8c7ae5900b77a2d83b8c3cb6b99ed33a252e3590)
+    - [Railway Code, 2016](https://planifikimi.gov.al/index.php?eID=dumpFile&t=f&f=6213&token=8c7ae5900b77a2d83b8c3cb6b99ed33a252e3590) *(Kodi Hekurudhor I Republikës Së Shqipërisë)*
     - [Law on Establishment of Railway Safety Authority (nr. 88, 2021)](https://www.infrastruktura.gov.al/wp-content/uploads/2022/11/ligj-2021-07-01-88_Per-krijimin-e-Autoritetit-t-Siguris-Hekurudhore.pdf)
     - [Law on Separation of "Albanian Ralways" Joint-stock Company](https://www.infrastruktura.gov.al/wp-content/uploads/2022/11/ligj-2021-07-01-90_Per-Ndarjen-e-shoqris-HSHsha.pdf)
     - [Law on Licensing Railway Operators](https://www.infrastruktura.gov.al/wp-content/uploads/2022/11/rregullore-2011-06-10-2638_Mbi-pajisjen-me-leje-veprimtarie-t-transportuesve-hekurudhor.pdf)
