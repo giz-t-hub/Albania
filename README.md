@@ -40,8 +40,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
 
 - Road Transport: 
-    - [Road Code, 2021](https://mb.gov.al/wp-content/uploads/2021/07/Kodi-Rrugor-i-RSH.pdf)
-        - [Regulation on the Implementation of the Road Code](https://www.dpshtrr.al/sites/default/files/downloads/dokumente/VKM%20Nr.153%2C%20dt.07.04.2000%20Pe%CC%88r%20Miratimin%20e%20Rregullores%20se%CC%88%20Zbatimit%20te%CC%88%20Kodit%20Rrugor%20te%CC%88%20RSH.pdf)
+    - [Road Code, 2021](https://mb.gov.al/wp-content/uploads/2021/07/Kodi-Rrugor-i-RSH.pdf) (*Kodi Rrugor I Republikës Së Shqipërisë)*
+        - [Regulation on the Implementation of the Road Code](https://www.dpshtrr.al/sites/default/files/downloads/dokumente/VKM%20Nr.153%2C%20dt.07.04.2000%20Pe%CC%88r%20Miratimin%20e%20Rregullores%20se%CC%88%20Zbatimit%20te%CC%88%20Kodit%20Rrugor%20te%CC%88%20RSH.pdf) *(Për Miratimin E Rregullores Së Zbatimit Të Kodit Rrugor Të Republikës Së Shqipërisë)*
     - [Technical Guidelines for Street Design and Implementation](https://planifikimi.gov.al/index.php?eID=dumpFile&t=f&f=3867&token=6ccc6b0d47997b14abb0fb0a1b4c173467c1a667)
     - [Implementation of Smart Systems on Road Transport (2020)](https://www.infrastruktura.gov.al/wp-content/uploads/2021/02/Urdher-2020-06-18-185_ITS_1.pdf)
     - [Guidelines on Road Transport Ticketing Templates and Standards (nr. 3743, 2017)](https://www.infrastruktura.gov.al/wp-content/uploads/2020/10/UDHEZIM_3743_10072017_perditesuar.pdf)
