@@ -14,7 +14,9 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - [Other national and sectoral documents](#other-national-sectoral-documents) 
 - [Climate and energy policies](#climate-energy-policies) 
 - [EU accession](#eu-accession)
-- [Trade Facilitation](#trade-facilitation)  
+- [Trade Facilitation](#trade-facilitation)
+- [Digitalisation](#digitalisation)
+- [Gender and Equality](#gender)
 - [Local Transport Plans](#local-transport-plans) 
 - [Studies and research papers](#studies-research) 
 - [International cooperation projects and strategies](#International-cooperation) 
@@ -96,6 +98,13 @@ https://konsultimipublik.gov.al/documents/RENJK_538_Draft-Strategjia-Kombetare-p
 
 ### Trade Facilitation <a name="trade-facilitation"></a> 
 
+- 
+
+### Digitalisation <a name="digitalisation"></a>
+
+-
+
+### Gender and Equality <a name="gender"></a>
 
 - 
 
@@ -146,6 +155,7 @@ https://konsultimipublik.gov.al/documents/RENJK_538_Draft-Strategjia-Kombetare-p
     - [Urban sprawl and weak regional transport in Durana](https://www.researchgate.net/publication/267865971_Urban_sprawl_and_weak_regional_transport_in_Durana)
     - [From carfree to carfull: The environmental and health impacts of increasing private motorisation in Albania](https://www.researchgate.net/publication/227619994_From_carfree_to_carfull_The_environmental_and_health_impacts_of_increasing_private_motorisation_in_Albania)
     - [Public transport and its privatization in East Europe: The case of Tirana, Albania](https://www.researchgate.net/publication/227580345_Public_transport_and_its_privatization_in_East_Europe_The_case_of_Tirana_Albania)
+      
 - [Sustainable urban mobility through a gender lens in Tirana (2023)](https://transformative-mobility.org/multimedia/mobility-gender-tirana/)
 - [Fiona Mino, Arba Bekteshi, Walking through Tirana: Spatiotemporal Unfoldings in the Cul-de-sacs](https://www.academia.edu/39232746/Walking_through_Tirana_spatio_temporal_unfoldings_in_the_cul_de_sacs)
 - [Rodion Gjoka, Gerti Delli, Decarbonisation of the Public Transport Sector in Tirana](https://www.co-plan.org/en/decarbonisation-of-the-public-transport-sector-in-tirana/)
