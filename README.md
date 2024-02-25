@@ -27,7 +27,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
     - [First Monitoring Report (2018)](https://infrastruktura.gov.al/wp-content/uploads/2018/07/Monitoring-Report-of-Transport-strategy-and-Action-Plan-2016-2020-1.pdf)
     - [Third Monitoring Report (2020)](https://www.infrastruktura.gov.al/wp-content/uploads/2020/07/3rd-Monitoring-Report-of-Sectorial-Transport-Strategy-and-Action-Plan-2016-2020_June-2020.pdf)
     - [Fourth Monitoring Report (2021)](https://www.infrastruktura.gov.al/wp-content/uploads/2021/10/4th-Monitoring-Report_May-2021-Transport-Sector-Strategy-final-21.06.2021.pdf)
-- [Law on Road Transport (nr.8308/1998)](https://www.infrastruktura.gov.al/wp-content/uploads/2020/10/Ligj-8308_1998-per-trasnportet-rrugore-i-perditesuar.pdf)
+- <B> Ligj Për Transportet Rrugore </b> *(Law on Road Transport (nr.8308/1998))* (https://www.infrastruktura.gov.al/wp-content/uploads/2020/10/Ligj-8308_1998-per-trasnportet-rrugore-i-perditesuar.pdf)
 - Key Updates in the Sector: 
     - The action plan for the implementation of the TCT which aims at harmonizing national legislations with the Acquis, is being implemented.
     -	Consultations with our Montenegrin partners regarding the development of the Joint Action Plan for the border crossing points between the Republic of Albania and Montenegro, is progressing in accordance with the Connectivity Reform Measures Plan.
