@@ -30,14 +30,6 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
     - [Third Monitoring Report (2020)](https://www.infrastruktura.gov.al/wp-content/uploads/2020/07/3rd-Monitoring-Report-of-Sectorial-Transport-Strategy-and-Action-Plan-2016-2020_June-2020.pdf)
     - [Fourth Monitoring Report (2021)](https://www.infrastruktura.gov.al/wp-content/uploads/2021/10/4th-Monitoring-Report_May-2021-Transport-Sector-Strategy-final-21.06.2021.pdf)
 - <B> Ligj Për Transportet Rrugore </b> *(Law on Road Transport (nr.8308/1998))* (https://www.infrastruktura.gov.al/wp-content/uploads/2020/10/Ligj-8308_1998-per-trasnportet-rrugore-i-perditesuar.pdf)
-- Key Updates in the Sector: 
-    - The action plan for the implementation of the TCT which aims at harmonizing national legislations with the Acquis, is being implemented.
-    -	Consultations with our Montenegrin partners regarding the development of the Joint Action Plan for the border crossing points between the Republic of Albania and Montenegro, is progressing in accordance with the Connectivity Reform Measures Plan.
-    -	30 Infrastructure priority projects are prioritized through SSPP process for 2020. A new list will be prepared for 2021.
-    -	The Strategy for the application of the ITS in the Road Sector in Albania has been approved by Minister (MIE) Order in May 2020. 
-    -	For the project Traffic Monitoring and Control Center for primary road network, contract between ARA and Technik TML Infraplan JV was signed on 20th of April 2021. 
-    -	Under the IPA project “On the improvement of road safety standards”, the tendering process for the elimination of 10 black spots was completed by the end of 2020 and the execution of works is completed.
-
 
 ### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
 
