@@ -94,7 +94,7 @@ https://konsultimipublik.gov.al/documents/RENJK_538_Draft-Strategjia-Kombetare-p
 
 ### Digitalisation <a name="digitalisation"></a>
 
--
+-[Application Strategy of Intelligent Systems](https://www.infrastruktura.gov.al/wp-content/uploads/2021/02/Urdher-2020-06-18-185_ITS_1.pdf)
 
 ### Gender and Equality <a name="gender"></a>
 
