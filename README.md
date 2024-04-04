@@ -36,6 +36,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Road Transport: 
     - [Road Code, 2021](https://mb.gov.al/wp-content/uploads/2021/07/Kodi-Rrugor-i-RSH.pdf) (*Kodi Rrugor I Republikës Së Shqipërisë)*
         - [Regulation on the Implementation of the Road Code](https://www.dpshtrr.al/sites/default/files/downloads/dokumente/VKM%20Nr.153%2C%20dt.07.04.2000%20Pe%CC%88r%20Miratimin%20e%20Rregullores%20se%CC%88%20Zbatimit%20te%CC%88%20Kodit%20Rrugor%20te%CC%88%20RSH.pdf) *(Rregullores Së Zbatimit Të Kodit Rrugor Të Republikës Së Shqipërisë)*
+    - [Sustainable and Smart Mobility Strategy in the Western Balkans (November 2023)](https://github.com/giz-t-hub/Albania/blob/main/Sustainable-and-Smart-Mobility-Strategy-Report_designed.pdf)
     - [Technical Guidelines for Street Design and Implementation](https://planifikimi.gov.al/index.php?eID=dumpFile&t=f&f=3867&token=6ccc6b0d47997b14abb0fb0a1b4c173467c1a667) *(Rregullave Teknike të Projektimit dhe Ndërtimit të  Rrugëve)*
     - [Implementation of Smart Systems on Road Transport (2020)](https://www.infrastruktura.gov.al/wp-content/uploads/2021/02/Urdher-2020-06-18-185_ITS_1.pdf) *(Strategjisë Për Aplikimin E Sistemeve Inteligjente Në Transportin Rrugor)*
     - [Guidelines on Road Transport Ticketing Templates and Standards (nr. 3743, 2017)](https://www.infrastruktura.gov.al/wp-content/uploads/2020/10/UDHEZIM_3743_10072017_perditesuar.pdf) *(Mbi Modelet Dhe Standartet E Biletave Të Transportit Rrugor Të Udhëtarëve)*
