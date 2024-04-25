@@ -79,9 +79,9 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Urban and regional development <a name="urban"></a> 
 
-    - [General National Plan 2015 – 2030: First National Document on Territorial Planning](https://planifikimi.gov.al/index.php?eID=dumpFile&t=f&f=5154&token=da636af1a1a4ffe0d0973a5cfc7eedbca62f49cc) *(Plani I Përgjithshëm Kombëtar 2015 - 2030: Dokumenti I Parë Kombëtar Për Planifikimin E Territorit)* 
-    - [Cross-sectoral Integrated Plan for the Tirana-Durrës Area](https://planifikimi.gov.al/index.php?eID=dumpFile&t=f&f=1310&token=79845b4945ed987ac47dd693d35b72da0a680b92) *(Plani I Integruar Ndërsektorial Për Zonën Tiranë-Durrës)*
-    - [Cross-sectoral Integrated Plan for the Coastal Area](https://planifikimi.gov.al/index.php?eID=dumpFile&t=f&f=2752&token=b41d3b4552272882361440529e2604b12fe5ca57) *(Plani I Integruar Ndërsektorial Për Brezin Bregdetar)*
+  - [General National Plan 2015 – 2030: First National Document on Territorial Planning](https://planifikimi.gov.al/index.php?eID=dumpFile&t=f&f=5154&token=da636af1a1a4ffe0d0973a5cfc7eedbca62f49cc) *(Plani I Përgjithshëm Kombëtar 2015 - 2030: Dokumenti I Parë Kombëtar Për Planifikimin E Territorit)*
+  - [Cross-sectoral Integrated Plan for the Tirana-Durrës Area](https://planifikimi.gov.al/index.php?eID=dumpFile&t=f&f=1310&token=79845b4945ed987ac47dd693d35b72da0a680b92) *(Plani I Integruar Ndërsektorial Për Zonën Tiranë-Durrës)*
+  - [Cross-sectoral Integrated Plan for the Coastal Area](https://planifikimi.gov.al/index.php?eID=dumpFile&t=f&f=2752&token=b41d3b4552272882361440529e2604b12fe5ca57) *(Plani I Integruar Ndërsektorial Për Brezin Bregdetar)*
     
 ### EU accession and cooperation <a name="eu-accession"></a> 
 - [National Plan for EU Accession 2017 – 2020 (Relevant chapters: 14 Transport, 15 Energy, and 21 TEN-T)](https://www.infrastruktura.gov.al/wp-content/uploads/2018/01/PKIE_2017-2020_permbledhja_shqip.docx)
