@@ -12,8 +12,9 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - [National Vision, Strategy, Masterplan](#National-Vision-Strategy-Masterplan)
 - [Other national and sectoral documents](#other-national-sectoral-documents) 
-- [Climate and energy policies](#climate-energy-policies) 
-- [EU accession](#eu-accession)
+- [Climate and energy policies](#climate-energy-policies)
+- [Urban and regional development](#urban)
+- [EU accession and cooperation](#eu-accession)
 - [Trade Facilitation](#trade-facilitation)
 - [Digitalisation](#digitalisation)
 - [Gender and Equality](#gender)
@@ -78,8 +79,9 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
     - [Law on Electric Energy Sector (nr. 43/2015)](https://infrastruktura.gov.al/wp-content/uploads/2017/10/ligj_nr_43_dt_30_4_2015_22652_1.pdf)
         - [Ammendment to the Law on Electic Energy Sector (2018)](https://infrastruktura.gov.al/wp-content/uploads/2019/01/Ligj-nr.-7-2018-dat-15.2.2018.pdf)
 
+### Urban and regional development <a name="urban"></a> 
 
-### EU accession <a name="eu-accession"></a> 
+### EU accession and cooperation <a name="eu-accession"></a> 
 - [National Plan for EU Accession 2017 – 2020 (Relevant chapters: 14 Transport, 15 Energy, and 21 TEN-T)](https://www.infrastruktura.gov.al/wp-content/uploads/2018/01/PKIE_2017-2020_permbledhja_shqip.docx)
 - [Guidelines: EU Guidance on the Development of the TEN-T Network](https://www.infrastruktura.gov.al/wp-content/uploads/2020/10/RREGULLORE-_TEN-T_RREGULLORE-BE-NR.-1315_2013_Konsoliduar_-24-QERSHOR-2020_PDF.pdf)
 - [National Strategy on Development and EU Accession 2030, Prime Minister's Office – National Agency on Strategic Planning and Donor Coordination](https://konsultimipublik.gov.al/documents/RENJK_538_Draft-Strategjia-Kombetare-per-Zhvillim-dhe-Integrim-2021--2030-.pdf)
