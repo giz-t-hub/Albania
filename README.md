@@ -92,6 +92,9 @@ https://konsultimipublik.gov.al/documents/RENJK_538_Draft-Strategjia-Kombetare-p
 - [Action Plans and the EU Acquis Progress Report 2023, Transport Community 2023](https://www.transport-community.org/wp-content/uploads/2023/12/Action-Plans-and-EU-Acquis-Progress-Report-2023-WEB.pdf)
 - [Development of indicative TEN-T extension of Comprehensive and Core Network in Western Balkans, Transport Community 2023](https://www.transport-community.org/wp-content/uploads/2023/12/TEN-T-Report-2023-WEB.pdf)
 - [Annual Operational Report of the Transport Community (2022)](https://www.transport-community.org/wp-content/uploads/2022/06/AOR-2021.pdf)
+- - Sofia Declaration on the Green Agenda for the Western Balkans: https://www.rcc.int/download/docs/Leaders%20Declaration%20on%20the%20Green%20Agenda%20for%20the%20WB.pdf/196c92cf0534f629d43c460079809b20.pdf 
+- Action Plan for the Implementation of the Sofia Declaration on the Green Agenda for the Western Balkans 2021-2030: https://www.rcc.int/docs/596/action-plan-for-the-implementation-of-the-sofia-declaration-on-the-green-agenda-for-the-western-balkans-2021-2030
+- Transport Community - studies and reports: https://www.transport-community.org/studies-and-reports/
 
 ### Trade Facilitation <a name="trade-facilitation"></a> 
 
