@@ -18,7 +18,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - [Trade Facilitation](#trade-facilitation)
 - [Digitalisation](#digitalisation)
 - [Gender and Equality](#gender)
-- [Local Transport Plans](#local-transport-plans) 
+- [Urban mobility plans, strategies, and concepts; local transport plans, etc](#local-transport-plans) 
 - [Studies and research papers](#studies-research) 
 - [International cooperation projects and strategies](#International-cooperation) 
 - [Data](#data) 
@@ -108,7 +108,7 @@ https://konsultimipublik.gov.al/documents/RENJK_538_Draft-Strategjia-Kombetare-p
 
 - - [Sustainable urban mobility through a gender lens in Tirana (2023)](https://transformative-mobility.org/multimedia/mobility-gender-tirana/)
 
-### Local Transport Plans <a name="local-transport-plans"></a>  
+### Urban mobility plans, strategies, and concepts; local transport plans, etc <a name="local-transport-plans"></a>  
 
 - Tirana SUMP 2020:
   - [Status analysis](https://tirana.al/en/uploads/2020/12/20201210161510_sump_tirana-volume-i_status_analysis_200724.pdf)
