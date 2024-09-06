@@ -107,6 +107,7 @@ https://konsultimipublik.gov.al/documents/RENJK_538_Draft-Strategjia-Kombetare-p
 ### Gender and Equality <a name="gender"></a>
 
 - - [Sustainable urban mobility through a gender lens in Tirana (2023)](https://transformative-mobility.org/multimedia/mobility-gender-tirana/)
+  - [World Bank: Country Gender Assessment Albania](https://documents1.worldbank.org/curated/en/099062524152016530/pdf/P17703516897050a11bdf11ad70eb7cc4a7.pdf)
 
 ### Urban mobility plans, strategies, and concepts; local transport plans, etc <a name="local-transport-plans"></a>  
 
